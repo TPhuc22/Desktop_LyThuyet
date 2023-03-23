@@ -1,0 +1,11 @@
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\bin\Debug\LyThuyet.exe.config
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\bin\Debug\LyThuyet.exe
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\bin\Debug\LyThuyet.pdb
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.frm35.resources
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.Properties.Resources.resources
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.exe
+C:\Users\asus\Downloads\2113010_HuynhThienPhuc_LyThuyet\LyThuyet\LyThuyet\obj\Debug\LyThuyet.pdb
